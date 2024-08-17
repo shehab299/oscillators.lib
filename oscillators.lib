@@ -59,7 +59,7 @@ fi = library("pkg:faust/faust/filters.lib@1.3.0");
 si = library("pkg:faust/faust/signals.lib@1.5.0");
 
 declare name "Faust Oscillator Library";
-declare version "1.5.3";
+declare version "1.5.4";
 
 // This library contains platform specific constants
 pl = library("pkg:faust/faust/platform.lib@1.3.0");
